@@ -8,7 +8,11 @@ Known Issues:
 *** Please kindly note that this plane from MSFS has numerous unselectable switches. This is a MSFS model/featureset issue, not a YC's or the Profile I created issue.
 
 FIXED:
-8-24-24 Released to public after testing
+  # 10/17/2024
+    # -  Added WEATHER RADAR KNOB
+  # 8-9-24 
+    # - MAG SWITCHES added 2 BKSQ LVARS for MAG CONTROL
+    # - Added AUTOPILOT MASTER, ATT and ALT variables
 
 
 I recommend that you and your co-pilot first conduct a test flight to check if everything is working properly.
